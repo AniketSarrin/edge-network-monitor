@@ -1,6 +1,9 @@
 # Edge Network Monitor
 
 An AI-powered full-stack network monitoring dashboard built with FastAPI, React, TypeScript, WebSockets, and a RAG pipeline.
+![Could Not Find Image](assets/1.png)
+![Could Not Find Image](assets/2.png)
+![Could Not Find Image](assets/3.png)
 
 ## Overview
 
